@@ -1,0 +1,88 @@
+{
+    "directories": {
+        "level_1_dir_1": {
+            "directories": {
+                "level_2_dir_1": {
+                    "directories": {
+                        "texts": {
+                            "directories": {
+                                "doc_texts": {
+                                    "directories": {},
+                                    "files": [
+                                        "Sample1.doc 0 байт",
+                                        "Sample2.doc 0 байт"
+                                    ],
+                                    "size": 0
+                                },
+                                "txt_texts": {
+                                    "directories": {},
+                                    "files": [
+                                        "Sample1.txt 98 байт",
+                                        "Sample2.txt 34 байт"
+                                    ],
+                                    "size": 132
+                                }
+                            },
+                            "files": [],
+                            "size": 132
+                        }
+                    },
+                    "files": [],
+                    "size": 132
+                },
+                "level_2_dir_2": {
+                    "directories": {
+                        "pictures": {
+                            "directories": {
+                                "jpeg_pictures": {
+                                    "directories": {},
+                                    "files": [
+                                        "Sample1.jpeg 0 байт"
+                                    ],
+                                    "size": 0
+                                },
+                                "png_pictures": {
+                                    "directories": {},
+                                    "files": [
+                                        "Sample1.png 0 байт",
+                                        "Sample2.png 0 байт",
+                                        "Sample3.png 0 байт"
+                                    ],
+                                    "size": 0
+                                }
+                            },
+                            "files": [],
+                            "size": 0
+                        }
+                    },
+                    "files": [],
+                    "size": 0
+                },
+                "level_2_dir_3": {
+                    "directories": {
+                        "movies": {
+                            "directories": {},
+                            "files": [
+                                "Sample1.mp4 0 байт"
+                            ],
+                            "size": 0
+                        }
+                    },
+                    "files": [],
+                    "size": 0
+                }
+            },
+            "files": [],
+            "size": 132
+        },
+        "level_1_dir_2": {
+            "directories": {},
+            "files": [
+                "Sample1.gif 0 байт"
+            ],
+            "size": 0
+        }
+    },
+    "files": [],
+    "size": 132
+}
