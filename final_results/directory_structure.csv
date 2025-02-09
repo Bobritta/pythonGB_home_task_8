@@ -1,14 +1,14 @@
 |nesting level| name dirs files
-0 directory_for_walking_task |['level_1_dir_1 0 байт', 'level_1_dir_2 0 байт']| []
-1 directory_for_walking_task\level_1_dir_1 |['level_2_dir_1 0 байт', 'level_2_dir_2 0 байт', 'level_2_dir_3 0 байт']| []
-1 directory_for_walking_task\level_1_dir_2 [] |['Sample1.gif 0 байт']|
-2 directory_for_walking_task\level_1_dir_1\level_2_dir_1 |['texts 0 байт']| []
-2 directory_for_walking_task\level_1_dir_1\level_2_dir_2 |['pictures 0 байт']| []
-2 directory_for_walking_task\level_1_dir_1\level_2_dir_3 |['movies 0 байт']| []
-3 directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts |['doc_texts 0 байт', 'txt_texts 132 байт']| []
-3 directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures |['jpeg_pictures 0 байт', 'png_pictures 0 байт']| []
-3 directory_for_walking_task\level_1_dir_1\level_2_dir_3\movies [] |['Sample1.mp4 0 байт']|
-4 directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts\doc_texts [] |['Sample1.doc 0 байт', 'Sample2.doc 0 байт']|
-4 directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts\txt_texts [] |['Sample1.txt 98 байт', 'Sample2.txt 34 байт']|
-4 directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures\jpeg_pictures [] |['Sample1.jpeg 0 байт']|
-4 directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures\png_pictures [] |['Sample1.png 0 байт', 'Sample2.png 0 байт', 'Sample3.png 0 байт']|
+5 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task |['level_1_dir_1 0 байт', 'level_1_dir_2 0 байт']| []
+6 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1 |['level_2_dir_1 0 байт', 'level_2_dir_2 0 байт', 'level_2_dir_3 0 байт']| []
+6 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_2 [] |['Sample1.gif 0 байт']|
+7 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_1 |['texts 0 байт']| []
+7 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_2 |['pictures 0 байт']| []
+7 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_3 |['movies 0 байт']| []
+8 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts |['doc_texts 0 байт', 'txt_texts 132 байт']| []
+8 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures |['jpeg_pictures 0 байт', 'png_pictures 0 байт']| []
+8 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_3\movies [] |['Sample1.mp4 0 байт']|
+9 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts\doc_texts [] |['Sample1.doc 0 байт', 'Sample2.doc 0 байт']|
+9 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_1\texts\txt_texts [] |['Sample1.txt 98 байт', 'Sample2.txt 34 байт']|
+9 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures\jpeg_pictures [] |['Sample1.jpeg 0 байт']|
+9 C:\Users\hummi\PycharmProjects\pythonGB_home_task_8\directory_for_walking_task\level_1_dir_1\level_2_dir_2\pictures\png_pictures [] |['Sample1.png 0 байт', 'Sample2.png 0 байт', 'Sample3.png 0 байт']|
